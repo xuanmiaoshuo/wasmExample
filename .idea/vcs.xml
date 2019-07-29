@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReduxVsMobx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebAssembly-benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assemblyscript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emsdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emsdk/clang/fastcomp/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emsdk/clang/fastcomp/src/tools/clang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wabt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wabt/third_party/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wabt/third_party/ply" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wabt/third_party/testsuite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wasm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wasm-examples" vcs="Git" />
+  </component>
+</project>
